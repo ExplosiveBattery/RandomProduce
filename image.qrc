@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>closeback.png</file>
+        <file>minback.png</file>
+        <file>locate.png</file>
+    </qresource>
+</RCC>
