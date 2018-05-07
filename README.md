@@ -1,7 +1,9 @@
 # RandomProduce
 ### Introduction
 一款使用Qt编写的可以替换背景图（自动读取picture.jpg文件），方便用于各社团活动的随机数生成器  
-![display](https://github.com/ExplosiveBattery/RandomProduce/blob/master/README/display.gif?raw=true)
+话说用deepin recorder录屏，里面东西的颜色都变了......变丑了....  
+![display_static](https://github.com/ExplosiveBattery/RandomProduce/blob/master/README/display.png?raw=true)
+![display_dynamic](https://github.com/ExplosiveBattery/RandomProduce/blob/master/README/display.gif?raw=true)
 
 
 ### Version
